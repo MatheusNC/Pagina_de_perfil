@@ -1,4 +1,4 @@
-# Página de Perfil pessoal
+# Página de Perfil pessoal :smile:
 ## Projeto apenas para implementação dos meus conhecimentos.
 **No momento estou utilizando:**
- - Utilizando HTML5 e CSS3 
+ - HTML5 e CSS3 
