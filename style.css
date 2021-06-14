@@ -11,18 +11,20 @@ body {
 section {
     background-color: rgba(146, 146, 146, 0.411);
     margin: auto;
+    max-width: 50%;
+    max-height: 50%;
     padding: 5px 15px 5px 15px;
     border-radius: 5px;
-    width: 200px;
 }
 
 footer {
     background-color: rgba(146, 146, 146, 0.411);
     margin: auto;
     margin-top: 15px;
+    max-width: 50%;
+    max-height: 50%;
     padding: 5px 15px 5px 15px;
     border-radius: 5px;
-    width: 200px;
 }
 
 ul {
